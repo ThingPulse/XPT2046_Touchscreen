@@ -1,5 +1,13 @@
 # XPT2046 Touchscreen Arduino Library
 
+🆘 🔔 🎁
+
+**This is a fork of Paul Stoffregen's excellent XPT2046 library. It exists for a single reason: [https://github.com/PaulStoffregen/XPT2046_Touchscreen/pull/24]() There is a fix in the upstream repository to make the library compatible with ESP8266 Arduino Core 2.5+. However, the author couldn't be convinced to create a new release. We tried many times.**
+
+Eventually we decided to fork and release it under a new name - including the fix. Our customers depend on this. At some point it was simply one support request too many. [Who reads documentation anyway?](https://docs.thingpulse.com/guides/wifi-color-display-kit/#install-the-esp8266-toolchain)
+
+🆘 🔔 🎁
+
 XPT2046_Touchscreen is a library for the XPT2046 resistive touchscreen controllers used on many low cost TFT displays.
 
 ![ILI9431Test Example Program](doc/ILI9431Test.jpg)
