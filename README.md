@@ -6,6 +6,8 @@
 
 Eventually we decided to fork and release it under a new name - including the fix. Our customers depend on this. At some point it was simply one support request too many. [Who reads documentation anyway?](https://docs.thingpulse.com/guides/wifi-color-display-kit/#install-the-esp8266-toolchain)
 
+**You will find this as "[ThingPulse XPT2046 Touch](https://www.arduinolibraries.info/libraries/thing-pulse-xpt2046-touch)" in the Arduino Library Manager. Don't forget to [uninstall](https://github.com/arduino/Arduino/wiki/Library-Manager-FAQ#how-can-i-delete-a-library) the original `XPT2046_Touchscreen` first!**
+
 🆘 🔔 🎁
 
 XPT2046_Touchscreen is a library for the XPT2046 resistive touchscreen controllers used on many low cost TFT displays.
